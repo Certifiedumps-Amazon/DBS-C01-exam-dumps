@@ -1,4 +1,4 @@
-# DBS-co1-exam-dumps
+# DBS-C01-exam-dumps
 # Ace the AWS Certified Database - Specialty (DBS-C01) Exam 🎓
 
 The **[AWS Certified Database - Specialty (DBS-C01)](https://www.certifiedumps.com/amazon/dbs-c01-dumps.html)** exam is tailored for database professionals eager to showcase their in-depth knowledge of AWS database services and solutions. This certification validates your capability to design, recommend, and manage optimal AWS database solutions for diverse use cases, making it an essential credential for those involved in cloud database management. 🌐
